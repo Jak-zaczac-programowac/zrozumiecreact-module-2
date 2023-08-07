@@ -36,8 +36,8 @@ function App() {
             {counterShown && (
                 <LikesCounter
                     numberOfLikes={numberOfLikes}
-                    onHandleLikeButtonClick={handleLikeButtonClick}
-                    onHandleLoveButtonClick={handleLoveButtonClick}
+                    onLikeButtonClick={handleLikeButtonClick}
+                    onLoveButtonClick={handleLoveButtonClick}
                 />
             )}
             <Plot />
