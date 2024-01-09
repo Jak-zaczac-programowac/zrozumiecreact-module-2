@@ -3,7 +3,7 @@ export default function App() {
     <>
       <h1>Gwiezdne wojny V</h1>
       <h2>Rok produkcji: 1980</h2>
-      <h2>Liczba polubień:</h2>
+      <h2>Liczba polubień: </h2>
       <button>Lubię to!</button>
       <h2>Fabuła</h2>
       <p>
