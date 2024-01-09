@@ -22,7 +22,7 @@ export default function App() {
       <h2>Liczba polubień: {likes}</h2>
       <button onClick={addLike}>Lubię to!</button>
       <h2>Fabuła</h2>
-      {disclaimer && (
+      {!spoiler && disclaimer && (
         <p>
           Uwaga! Opis fabuły zawiera spoilery!{" "}
           <button onClick={closeDisclaimer}>X</button>
