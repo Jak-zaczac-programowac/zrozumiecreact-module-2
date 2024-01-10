@@ -1,4 +1,4 @@
-# Moduł 2 - Renderowanie i stan !
+# Moduł 3 - Renderowanie i stan !
 
 Jeśli chcesz skorzystać z kodu, możesz pobrać repo a następnie wpisać:
 
